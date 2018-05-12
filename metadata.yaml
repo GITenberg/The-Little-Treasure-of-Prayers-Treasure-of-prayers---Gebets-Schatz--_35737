@@ -13,6 +13,8 @@ creator:
     - http://www.gutenberg.org/browse/authors/u#a49
     - http://en.wikipedia.org/wiki/Anonymity
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/35737#The-Little-Treasure-of-Prayers-Treasure-of-prayers---Gebets-Schatz--
 gutenberg_issued: '2011-04-01'
 gutenberg_type: Text
 identifiers:
